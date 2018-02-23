@@ -1,2 +1,3 @@
 # CodeSnippets
-Code Snippets
+Collection of useful Code Snippets
+
